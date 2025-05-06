@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Yes</title>
+    <style>
+      body {
+        margin: 0;
+        background: black;
+        color: white;
+        font-size: 10rem;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        font-family: sans-serif;
+      }
+    </style>
+  </head>
+  <body>
+    NO
+  </body>
+</html>
